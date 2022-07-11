@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DamienLeon
 - 👀 I’m interested in Mobile App Development. Web Development too
-- 🌱 I’m currently learning Flutter
+- 🌱 Currently a Flutter Developer
 - 💞️ I’m looking to collaborate on Flutter Projects
 - 📫 Contact me at damienleon.kz@gmail.com
 
